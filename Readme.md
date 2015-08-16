@@ -1,3 +1,5 @@
 Hecho a mano.
 
-Readme de prueba para repositorio Git
+Readme de prueba para repositorio Git. 
+
+Ahora modificado. :)
